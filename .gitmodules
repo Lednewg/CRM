@@ -1,0 +1,18 @@
+[submodule "steal"]
+	path = steal
+	url = https://github.com/bitovi/steal.git
+[submodule "can"]
+	path = can
+	url = https://github.com/bitovi/canjs.git
+[submodule "jquerypp"]
+	path = jquerypp
+	url = https://github.com/bitovi/jquerypp.git
+[submodule "documentjs"]
+	path = documentjs
+	url = https://github.com/bitovi/documentjs.git
+[submodule "funcunit"]
+	path = funcunit
+	url = https://github.com/bitovi/funcunit.git
+[submodule "jmvc"]
+	path = jmvc
+	url = https://github.com/bitovi/jmvc-generators.git
